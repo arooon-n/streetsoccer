@@ -1,0 +1,3 @@
+# Keep these files private and backed up: you need them to publish updates.
+*
+!.gitignore
